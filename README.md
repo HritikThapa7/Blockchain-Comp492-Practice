@@ -1,15 +1,15 @@
-#Practice Works for Subject: COMP 492 (Blockchain Technology)      
+# Practice Works for Subject: COMP 492 (Blockchain Technology)      
 
-##Practice1 - Cryptography        
-###Symmetric Encryption       
+## Practice1 - Cryptography        
+### Symmetric Encryption       
 	- Substition Ciphers: Caeser, Monoalphabetic, Polyalphabetic      
 	- Transposition Ciphers: Columnar Transposition     
 	- DES     
-###Assymetric Encryption     
+### Assymetric Encryption     
 	- RSA     
 	- Assymetric Encryption - Session Key     
 	- Diffie-hellman (DH) Algorithm     
-###Authentication         
+### Authentication         
 	- Authentication with Message Digests     
 	- Password Authentication      
 	- Kerberos Authentication (Concept)     
