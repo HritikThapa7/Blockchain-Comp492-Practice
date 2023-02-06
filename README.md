@@ -14,3 +14,11 @@
 	- Password Authentication      
 	- Kerberos Authentication (Concept)     
 	- Digital Signatures    
+	
+## Practice2 - Blockchain Networks and Consensus Algorithm        
+### P2P Network Simulation       
+### Distributed Network Simulation     
+### Consensus Algorithm         
+	- Proof of Work (PoW)     
+	- Proof of Stake (PoS)      
+	- Proof of Authority (PoA)     
